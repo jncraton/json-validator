@@ -1,0 +1,18 @@
+{
+  "animals": [
+    "cat",
+    "dog",
+    "bird",
+    "fish"
+  ],
+  "numbers": [
+    1,
+    10,
+    34,
+    3.14159
+  ],
+  "bools": [
+    true,
+    false
+  ]
+}
