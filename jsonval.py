@@ -170,5 +170,4 @@ def validate(doc):
     """
 
 if __name__ == '__main__':
-    with open(sys.argv[1]) as f:
-        validate(f.read())
+    validate(sys.stdin.read())
