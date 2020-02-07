@@ -1,6 +1,5 @@
 import re
 import sys
-import enum
 
 class Token():
     def __init__(self, name, value, position):
